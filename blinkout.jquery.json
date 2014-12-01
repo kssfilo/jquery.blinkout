@@ -1,0 +1,23 @@
+{
+	"name": "blinkout",
+	"title": "jQuery blinkout",
+	"description": "jQuery plugin to make element blinking and fadeout",
+	"keywords": [
+		"blink",
+		"jquery"
+	],
+	"version": "1.0.0",
+	"author": {
+		"name": "kssfilo",
+		"url": "http://kanasys.com/gtech/"
+	},
+	"licenses": [
+		{
+			"type": "MIT",
+			"url": "https://github.com/kssfilo/jquery.blinkout/blob/master/LICENSE"
+		}
+	],
+	"dependencies": {
+		"jquery": ">=1.5.0"
+	}
+}
